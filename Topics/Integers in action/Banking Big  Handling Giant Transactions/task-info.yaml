@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Declare the variable as Int and handle overflow exceptions.
+  - text: Convert all transaction amounts to String and parse them when needed.
+  - text: Use the Long data type to accommodate larger numbers.
+  - text: Store the transaction amounts in a Double for higher precision.
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47378#comment
+status: Solved
+record: -1
+custom_name: "Banking Big: Handling Giant Transactions"
+local_check: false

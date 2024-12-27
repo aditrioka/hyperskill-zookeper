@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/At the same time" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment, then decrement an integer" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Banking Big  Handling Giant Transactions" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Time format" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore" />
+            <option value="$PROJECT_DIR$/Topics/Loops  repeat statement/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Topics/Loops  repeat statement/Repeat by value" />
+            <option value="$PROJECT_DIR$/Topics/Loops  repeat statement/Sum of squares of even numbers up to a limit" />
+            <option value="$PROJECT_DIR$/Topics/Loops  repeat statement/Theory" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
